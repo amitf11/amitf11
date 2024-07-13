@@ -15,7 +15,7 @@
 <ul>
   <li>👨‍💻 Currently looking for my first challenge in the industry, while improving my skills and acquiring new knowledge</li>
   <li>🎓 Recently graduated Fullstack Bootcamp by Coding Academy</li>
-  <li>🎯 Team Player, analytical and prcatical kind of person</li>
+  <li>🎯 Team Player, analytical and practical kind of person</li>
 </ul>
 
 <h3>📫 Contact Me:</h3>
